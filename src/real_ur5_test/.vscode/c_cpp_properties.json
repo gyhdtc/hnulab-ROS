@@ -1,0 +1,42 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/ipc/catkin_ws/devel/include/**",
+                "/home/ipc/diansai_ws/devel/include/**",
+                "/home/ipc/guyueju_ws/devel/include/**",
+                "/opt/ros/kinetic/include/**",
+                "/home/ipc/diansai_ws/src/handeye_calibration/aruco_ros/aruco/include/**",
+                "/home/ipc/diansai_ws/src/handeye_calibration/aruco_ros/aruco_ros/include/**",
+                "/home/ipc/diansai_ws/src/biologically_inspired_dmp/include/**",
+                "/home/ipc/diansai_ws/src/dh_hand_driver/include/**",
+                "/home/ipc/diansai_ws/src/dmp/include/**",
+                "/home/ipc/diansai_ws/src/iai_kinect2/kinect2_bridge/include/**",
+                "/home/ipc/diansai_ws/src/iai_kinect2/kinect2_calibration/include/**",
+                "/home/ipc/diansai_ws/src/iai_kinect2/kinect2_registration/include/**",
+                "/home/ipc/guyueju_ws/src/learning_communication/include/**",
+                "/home/ipc/guyueju_ws/src/learning_tf/include/**",
+                "/home/ipc/guyueju_ws/src/my_ur5_demo/include/**",
+                "/home/ipc/guyueju_ws/src/probot_anno_ikfast_manipulator_plugin/include/**",
+                "/home/ipc/diansai_ws/src/probot_grasping/include/**",
+                "/home/ipc/guyueju_ws/src/probot_vision/include/**",
+                "/home/ipc/real_time_control/src/real_time_driver/include/**",
+                "/home/ipc/diansai_ws/src/real_ur5_test/include/**",
+                "/home/ipc/real_time_control/src/ur5_kinematics/include/**",
+                "/home/ipc/catkin_ws/src/universal_robot/ur_kinematics/include/**",
+                "/home/ipc/diansai_ws/src/handeye_calibration/vision_visp/visp_bridge/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
